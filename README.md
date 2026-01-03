@@ -36,10 +36,6 @@ It is designed for gaming scenarios (e.g. FPS shooters) where understanding *lef
 
 ---
 
-## 📸 Screenshots
-
-> _(Screenshots / GIFs coming soon)_
-
 Suggested captures:
 - Idle (no sound)
 - Enemy footsteps clearly on left
@@ -110,4 +106,4 @@ This tool is intended as a **situational aid**, not a replacement for spatial he
 
 ## 📄 License
 
-MIT License (or choose one before publishing)
+MIT License
